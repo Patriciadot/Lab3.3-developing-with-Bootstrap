@@ -1,6 +1,6 @@
 body{
 display: flex; 
-background: var(--color-slate-300, #86a4c7);
+background: var(--color-slate-300, #D5E1EF);
 justify-content: center; 
 align-items: center;
 height: 100vh;
